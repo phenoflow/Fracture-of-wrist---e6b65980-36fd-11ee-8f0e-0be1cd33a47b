@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/fracture-of-wrist-closed---primary.py
+inputModule3:
+  class: File
+  path: python/fracture-of-wrist-radioulnar---primary.py
+inputModule4:
+  class: File
+  path: python/fracture-of-wrist-forearm---primary.py
+inputModule5:
+  class: File
+  path: python/fracture-of-wrist-colle---primary.py
+inputModule6:
+  class: File
+  path: python/fracture-of-wrist-smith---primary.py
+inputModule7:
+  class: File
+  path: python/other-fracture-of-wrist---primary.py
+inputModule8:
+  class: File
+  path: python/fracture-of-wrist-process---primary.py
+inputModule9:
+  class: File
+  path: python/fracture-of-wrist-epiphysis---primary.py
+inputModule10:
+  class: File
+  path: python/fracture-of-wrist-galeazzi---primary.py
+inputModule11:
+  class: File
+  path: python/volar-fracture-of-wrist---primary.py
+inputModule12:
+  class: File
+  path: python/fracture-of-wrist-dislocation---primary.py
+inputModule13:
+  class: File
+  path: python/fracture-of-wrist-dorsal---primary.py
+inputModule14:
+  class: File
+  path: python/radial-fracture-of-wrist---primary.py
+inputModule15:
+  class: File
+  path: python/fracture-of-wrist-diepunch---primary.py
+inputModule16:
+  class: File
+  path: python/intraarticular-fracture-of-wrist---primary.py
+inputModule17:
+  class: File
+  path: python/fracture-of-wrist-barton---primary.py
+inputModule18:
+  class: File
+  path: python/fracture-of-wrist---primary.py
+inputModule19:
+  class: File
+  path: python/lower-fracture-of-wrist---primary.py
+inputModule20:
+  class: File
+  path: python/fracture-of-wrist-radiocarpal---primary.py
+inputModule21:
+  class: File
+  path: python/fracture-of-wrist-radius---secondary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
